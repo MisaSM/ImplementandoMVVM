@@ -63,6 +63,23 @@
                     FontAttributes="Bold"
                     Command="{Binding NavegarPagina2command}"
                     />
+            <StackLayout HorizontalOptions="Center"
+                         Orientation="Horizontal">
+                <Label TextColor="White"
+                       FontAttributes="Bold"
+                       Text="Picker: "
+                       VerticalOptions="Center"/>
+                <Picker HorizontalOptions="FillAndExpand"
+                        Title="Seleccione una opción"
+                        SelectedItem="{Binding SeleccionarTipoUsuario}">
+                    <Picker.ItemsSource>
+                        
+                    </Picker.ItemsSource>                    
+                    
+                </Picker>
+
+
+            </StackLayout>
         </StackLayout>
     </Grid>
 </ContentPage>
