@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "v3lAjXAD7eaDfdB9RDw0SeQ9Az7waMcOmcqZjjiPqiFKaK4RRiXMvwwvL9deDRrhBSG2O9IpSPMDNs6Q+nuw2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\source\\repos\\MVVM_Implementacion_MSM_TIDSM4A\\MVVM_Implementacion_MSM_TIDSM4A.iOS\\MVVM_Implementacion_MSM_TIDSM4A.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\xamarin.essentials\\1.7.3\\xamarin.essentials.1.7.3.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\xamarin.forms\\5.0.0.2515\\xamarin.forms.5.0.0.2515.nupkg.sha512"
+  ],
+  "logs": []
+}

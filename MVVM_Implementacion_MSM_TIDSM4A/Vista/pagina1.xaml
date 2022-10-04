@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MVVM_Implementacion_MSM_TIDSM4A.Vista.pagina1">
+    <Grid BackgroundColor="Aqua">
+    <StackLayout VerticalOptions="Center">
+            <StackLayout
+                Orientation="Horizontal"
+                HorizontalOptions="Center"
+                >
+
+                <Label Text="#1:"
+                       TextColor="White"
+                        FontAttributes="Bold"
+                       VerticalOptions="Center"
+                    />
+                <Entry
+                    PlaceholderColor="White"
+                    Placeholder="Escribe un numero"
+                    HorizontalOptions="StartAndExpand"
+                    Text="{Binding N1}"
+                    Keyboard="Numeric"
+                    />
+
+            </StackLayout>
+
+            <StackLayout
+                Orientation="Horizontal"
+                HorizontalOptions="Center"
+                >
+                <Label Text="#2:"
+                       TextColor="White"
+                        FontAttributes="Bold"
+                       VerticalOptions="Center"
+                    />
+                <Entry
+                    PlaceholderColor="White"
+                    Placeholder="Escriba un numero"
+                    HorizontalOptions="StartAndExpand"
+                    Text="{Binding N2}"
+                    Keyboard="Numeric"
+                    />
+            </StackLayout>
+            <Button Text="Sumar" 
+                      VerticalOptions="Center"
+                HorizontalOptions="Center"
+                Command="{Binding SumarCommand}"
+                TextTransform="None"
+                    Background="White"
+                    CornerRadius="5"
+                    TextColor="Black"
+                    />
+            <Label Text="{Binding R}"
+                       TextColor="White"
+                       HorizontalOptions="Center"
+                        FontAttributes="Bold"
+                         FontSize="35"
+                    />
+            <Button Text="Ir a página 2"
+                    HorizontalOptions="Center"
+                    CornerRadius="5"
+                    BackgroundColor="White"
+                    FontAttributes="Bold"
+                    Command="{Binding NavegarPagina2command}"
+                    />
+        </StackLayout>
+    </Grid>
+</ContentPage>
