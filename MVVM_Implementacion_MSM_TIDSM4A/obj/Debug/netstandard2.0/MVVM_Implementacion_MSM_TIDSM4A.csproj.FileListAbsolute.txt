@@ -16,7 +16,6 @@ C:\Users\PC19\source\repos\MVVM_Implementacion_MSM_TIDSM4A\MVVM_Implementacion_M
 C:\Users\PC19\source\repos\MVVM_Implementacion_MSM_TIDSM4A\MVVM_Implementacion_MSM_TIDSM4A\obj\Debug\netstandard2.0\ref\MVVM_Implementacion_MSM_TIDSM4A.dll
 C:\Users\LENOVO\source\repos\MVVM_Implementacion_MSM_TIDSM4A\MVVM_Implementacion_MSM_TIDSM4A\bin\Debug\netstandard2.0\MVVM_Implementacion_MSM_TIDSM4A.deps.json
 C:\Users\LENOVO\source\repos\MVVM_Implementacion_MSM_TIDSM4A\MVVM_Implementacion_MSM_TIDSM4A\bin\Debug\netstandard2.0\MVVM_Implementacion_MSM_TIDSM4A.dll
-C:\Users\LENOVO\source\repos\MVVM_Implementacion_MSM_TIDSM4A\MVVM_Implementacion_MSM_TIDSM4A\bin\Debug\netstandard2.0\ref\MVVM_Implementacion_MSM_TIDSM4A.dll
 C:\Users\LENOVO\source\repos\MVVM_Implementacion_MSM_TIDSM4A\MVVM_Implementacion_MSM_TIDSM4A\bin\Debug\netstandard2.0\MVVM_Implementacion_MSM_TIDSM4A.pdb
 C:\Users\LENOVO\source\repos\MVVM_Implementacion_MSM_TIDSM4A\MVVM_Implementacion_MSM_TIDSM4A\obj\Debug\netstandard2.0\MVVM_Implementacion_MSM_TIDSM4A.csproj.AssemblyReference.cache
 C:\Users\LENOVO\source\repos\MVVM_Implementacion_MSM_TIDSM4A\MVVM_Implementacion_MSM_TIDSM4A\obj\Debug\netstandard2.0\MVVM_Implementacion_MSM_TIDSM4A.GeneratedMSBuildEditorConfig.editorconfig
@@ -31,3 +30,4 @@ C:\Users\LENOVO\source\repos\MVVM_Implementacion_MSM_TIDSM4A\MVVM_Implementacion
 C:\Users\LENOVO\source\repos\MVVM_Implementacion_MSM_TIDSM4A\MVVM_Implementacion_MSM_TIDSM4A\obj\Debug\netstandard2.0\MVVM_Implementacion_MSM_TIDSM4A.dll
 C:\Users\LENOVO\source\repos\MVVM_Implementacion_MSM_TIDSM4A\MVVM_Implementacion_MSM_TIDSM4A\obj\Debug\netstandard2.0\ref\MVVM_Implementacion_MSM_TIDSM4A.dll
 C:\Users\LENOVO\source\repos\MVVM_Implementacion_MSM_TIDSM4A\MVVM_Implementacion_MSM_TIDSM4A\obj\Debug\netstandard2.0\MVVM_Implementacion_MSM_TIDSM4A.pdb
+C:\Users\LENOVO\source\repos\MVVM_Implementacion_MSM_TIDSM4A\MVVM_Implementacion_MSM_TIDSM4A\obj\Debug\netstandard2.0\refint\MVVM_Implementacion_MSM_TIDSM4A.dll

@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="MVVM_Implementacion_MSM_TIDSM4A.Vista.pagina1">
+             x:Class="MVVM_Implementacion_MSM_TIDSM4A.Vista.pagina1"
+             NavigationPage.HasNavigationBar="False">
     <Grid BackgroundColor="Aqua">
     <StackLayout VerticalOptions="Center">
             <StackLayout
@@ -73,11 +74,18 @@
                         Title="Seleccione una opción"
                         SelectedItem="{Binding SeleccionarTipoUsuario}">
                     <Picker.ItemsSource>
-                        
+                        <x:Array Type="{x:Type x:String}">
+                            <x:String>Administrador</x:String>
+                            <x:String>Empleado</x:String>
+                        </x:Array>
                     </Picker.ItemsSource>                    
                     
                 </Picker>
 
+                <DatePicker HorizontalOptions="FillAndExpand"
+                            MinimumDate="{Binding MinimumDate}"
+                            Date="{Binding Date}">
+                </DatePicker>
 
             </StackLayout>
         </StackLayout>

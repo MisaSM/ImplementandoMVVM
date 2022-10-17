@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MVVM_Implementacion_MSM_TIDSM4A.VistaModelo;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,6 +16,7 @@ namespace MVVM_Implementacion_MSM_TIDSM4A.Vista
         public pagina2()
         {
             InitializeComponent();
+            BindingContext = new VMpagina2(Navigation);
         }
     }
 }

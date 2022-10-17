@@ -24,6 +24,13 @@ namespace MVVM_Implementacion_MSM_TIDSM4A.VistaModelo
         #endregion
 
         #region OBJETOS
+
+        DatePicker datePicker = new DatePicker
+        {
+            MinimumDate = new DateTime(2003, 1, 1),
+            Date = DateTime.Today
+        };
+
         public string TipoUsuario 
         {
             get { return _TipoUsuario; }
