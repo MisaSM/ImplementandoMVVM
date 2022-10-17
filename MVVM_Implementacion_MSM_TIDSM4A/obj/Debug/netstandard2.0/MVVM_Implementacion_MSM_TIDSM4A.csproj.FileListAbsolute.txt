@@ -31,3 +31,5 @@ C:\Users\LENOVO\source\repos\MVVM_Implementacion_MSM_TIDSM4A\MVVM_Implementacion
 C:\Users\LENOVO\source\repos\MVVM_Implementacion_MSM_TIDSM4A\MVVM_Implementacion_MSM_TIDSM4A\obj\Debug\netstandard2.0\ref\MVVM_Implementacion_MSM_TIDSM4A.dll
 C:\Users\LENOVO\source\repos\MVVM_Implementacion_MSM_TIDSM4A\MVVM_Implementacion_MSM_TIDSM4A\obj\Debug\netstandard2.0\MVVM_Implementacion_MSM_TIDSM4A.pdb
 C:\Users\LENOVO\source\repos\MVVM_Implementacion_MSM_TIDSM4A\MVVM_Implementacion_MSM_TIDSM4A\obj\Debug\netstandard2.0\refint\MVVM_Implementacion_MSM_TIDSM4A.dll
+C:\Users\LENOVO\source\repos\MVVM_Implementacion_MSM_TIDSM4A\MVVM_Implementacion_MSM_TIDSM4A\obj\Debug\netstandard2.0\Vista\Crudpokemon.xaml.g.cs
+C:\Users\LENOVO\source\repos\MVVM_Implementacion_MSM_TIDSM4A\MVVM_Implementacion_MSM_TIDSM4A\obj\Debug\netstandard2.0\Vista\Menuprincipal.xaml.g.cs

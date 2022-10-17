@@ -1,4 +1,5 @@
-﻿using MVVM_Implementacion_MSM_TIDSM4A.Vista;
+﻿using MVVM_Implementacion_MSM_TIDSM4A.Modelo;
+using MVVM_Implementacion_MSM_TIDSM4A.Vista;
 using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -11,7 +12,7 @@ namespace MVVM_Implementacion_MSM_TIDSM4A
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new pagina1());
+            MainPage = new NavigationPage(new Menuprincipal());
         }
 
         protected override void OnStart()

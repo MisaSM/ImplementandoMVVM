@@ -8,21 +8,21 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("MVVM_Implementacion_MSM_TIDSM4A.Vista.pagina2.xaml", "Vista/pagina2.xaml", typeof(global::MVVM_Implementacion_MSM_TIDSM4A.Vista.pagina2))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("MVVM_Implementacion_MSM_TIDSM4A.Vista.Menuprincipal.xaml", "Vista/Menuprincipal.xaml", typeof(global::MVVM_Implementacion_MSM_TIDSM4A.Vista.Menuprincipal))]
 
 namespace MVVM_Implementacion_MSM_TIDSM4A.Vista {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Vista\\pagina2.xaml")]
-    public partial class pagina2 : global::Xamarin.Forms.ContentPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Vista\\Menuprincipal.xaml")]
+    public partial class Menuprincipal : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
-        private global::Xamarin.Forms.CollectionView listauser;
+        private global::Xamarin.Forms.CollectionView listapantallas;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(pagina2));
-            listauser = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.CollectionView>(this, "listauser");
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(Menuprincipal));
+            listapantallas = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.CollectionView>(this, "listapantallas");
         }
     }
 }
