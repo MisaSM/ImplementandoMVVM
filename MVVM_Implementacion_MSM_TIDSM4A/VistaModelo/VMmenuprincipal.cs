@@ -25,13 +25,12 @@ namespace MVVM_Implementacion_MSM_TIDSM4A.VistaModelo
         {
             Menuprincipal = new List<Mmenuprincipal>
             {
-                new Mmenuprincipal{ Pagina="Entry, datepicker, picker, etc", 
-                    Icono="https://i.ibb.co/mXqDN82/pulpo.png"},
+                new Mmenuprincipal{ Pagina="Entry, datepicker", Icono="https://i.ibb.co/mXqDN82/pulpo.png"},
 
-                new Mmenuprincipal{ Pagina="CollectionView sin enlace a BD",
+                new Mmenuprincipal{ Pagina="CollectionView sin enlace",
                     Icono="https://i.ibb.co/GTNwkNP/pescado.png"},
 
-                new Mmenuprincipal{ Pagina="CRUD Pokemon",
+                new Mmenuprincipal{ Pagina="Crud Pokemon",
                     Icono="https://i.ibb.co/VYLQb0H/shayming.png"}
             };
         }
